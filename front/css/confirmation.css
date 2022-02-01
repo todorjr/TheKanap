@@ -1,0 +1,42 @@
+/**************/
+/*Confirmation*/
+/**************/
+@import url("https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap");
+#message {
+  font-family: "Bebas Neue", cursive;
+  margin: auto;
+  width: 40%;
+  height: 100px;
+  font-size: 25px;
+  text-align: center;
+  font-weight: 400;
+}
+.confirmation {
+  display: flex;
+  justify-content: center;
+  margin-top: 85px;
+  margin-bottom: 85px;
+}
+
+.confirmation p {
+  background-color: white;
+  color: #3d424f;
+  text-align: center;
+  font-weight: 500;
+  padding: 30px;
+  border-radius: 25px;
+}
+#new_div {
+  border: 1px solid#fff;
+  border-radius: 20px;
+  background-color: #fff;
+  width: 200px;
+  height: 150px;
+  color: #3d424f;
+  font-size: 14px;
+  margin: auto;
+  padding: 10px;
+  text-align: center;
+  font-weight: 500;
+  margin-bottom: 5px;
+}
